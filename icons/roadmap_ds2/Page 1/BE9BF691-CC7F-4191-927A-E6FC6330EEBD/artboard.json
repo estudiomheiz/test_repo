@@ -58,13 +58,18 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "136F9F34-F056-44D0-B490-1A4359C267FE"
+    },
+    {
       "class": "group",
-      "id": "4D15BD2F-87EC-497C-8183-B2D24575FCCB"
+      "id": "445F76EE-6D33-44C2-A7A0-33073EFCD069"
     },
     {
       "class": "group",
