@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "EB2F20E3-31DC-495C-B799-410F4B7D66C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2ADC6D8C-F98B-4C03-A002-6E52A050A4A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5384E99-6FF2-4B38-A263-18A11582041D",
+    "height": 967,
+    "width": 495,
+    "x": 1803,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E235EE2C-BADA-4103-AAC8-5F0B67DB3C39"
+    },
+    {
+      "class": "bitmap",
+      "id": "9C12D1DA-D8AA-4515-BF60-B571C55A94F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAF8FBC5-D382-4397-9BF3-9DE6788953B4"
+    }
+  ],
+  "name": "Apple iPhone 7 Silver",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B43A3457-4E7C-44CF-8AFA-9EE5877F9FF7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

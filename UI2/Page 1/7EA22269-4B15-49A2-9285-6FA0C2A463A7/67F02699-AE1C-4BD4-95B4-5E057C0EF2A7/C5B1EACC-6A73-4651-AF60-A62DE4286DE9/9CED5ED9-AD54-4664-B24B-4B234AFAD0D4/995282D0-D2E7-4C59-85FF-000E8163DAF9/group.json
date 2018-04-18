@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "995282D0-D2E7-4C59-85FF-000E8163DAF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A280A6B7-9CEA-4002-9BC9-8AD13D4DFB0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21CC38BA-1376-482E-8F31-35D892AF7793",
+    "height": 79,
+    "width": 60.5,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CF9AD978-C225-485A-83B2-161380DF198F"
+    },
+    {
+      "class": "bitmap",
+      "id": "E2045334-1E10-4298-99E9-C074694022B1"
+    }
+  ],
+  "name": "Weather",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CBD2EA8C-FB84-420E-B238-5DAB1D136751",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "92ACFC10-9E84-4F6C-9F6A-67294366CDB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

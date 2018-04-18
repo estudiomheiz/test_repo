@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "3043900D-0FF8-4778-9D5B-A174E22FF299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "948AF9A3-72E4-44F6-8DDE-547548101D02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BF63B1D-0373-4BB4-A491-4A49AF951DBA",
+    "height": 29,
+    "width": 29,
+    "x": 49,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B263E05F-53DF-4B80-8825-ACB76B7091B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3380C658-C241-4F27-A55C-DF1B0FC17B89"
+    }
+  ],
+  "name": "Glyphs / News / Favorites",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C71411B-5509-4F54-BE65-E835624DD2FE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

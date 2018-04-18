@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "CE099C3E-B020-45D3-8E87-F2B9D002142A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 309,
+    "x": 25,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2401BE3-226F-4618-9225-9255D983F813"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF15FC5F-F58B-4891-92A3-FBCEB7BB41BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E627FED-F738-4FC1-B2A8-B3FC7EC35793"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C485586A-4909-42CE-9C3D-655BE2FE1267"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE36FBBD-14EC-4F6A-A012-B88E5B13BB7F"
+    }
+  ],
+  "name": "Brightness Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

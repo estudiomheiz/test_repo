@@ -1,0 +1,117 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6737CA17-51BB-4AF7-B339-19DC59E96A46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF8C48FF-C49D-4589-AF69-D2200EF28D8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8541E3A0-8F5C-4B38-AEF2-532C73191F72",
+    "height": 21,
+    "width": 25,
+    "x": 2,
+    "y": 3.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3C3482DC-575B-4841-B857-55963FBCD099"
+    },
+    {
+      "class": "shapePath",
+      "id": "BECA2C4B-7163-4B22-9C74-A449C3023524"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FBEB855-6664-4F77-8D08-AD65331FB64C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6EDB00FC-A925-49A2-9B5C-69300B65F7C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "2E36CBE8-EE42-448F-9054-574B31495207"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DDA7B8E-BB39-4256-AB33-56DA6D45A23B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D53E1BBC-BF75-4569-B604-CE3594394255"
+    },
+    {
+      "class": "shapePath",
+      "id": "71611D5E-B77D-4FA7-A076-BC21131C38E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D843994-2797-4BD1-BE62-57D5221ABA8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "836B80F4-F1BD-4A3A-9072-0AB12883D739"
+    },
+    {
+      "class": "shapePath",
+      "id": "B158B928-6801-4603-A777-F159EC290D8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "F57342F5-DDA9-42DB-9727-04AB00E45F75"
+    },
+    {
+      "class": "shapePath",
+      "id": "63822A42-BC12-46F9-A205-DF85DA072004"
+    }
+  ],
+  "name": "Movies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BB38C36-1986-4731-9571-E3AD24C98435",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5686274509803921,
+          "green": 0.5725490196078431,
+          "red": 0.5686274509803921
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "EDC7B69C-04B1-4728-BD13-28A9C0C47165",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DD0EE7E-80F7-48D1-8689-B5B944DD6A95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED0A5A22-DA9E-4324-984D-26341C0BBB79",
+    "height": 29,
+    "width": 225,
+    "x": 457,
+    "y": 643
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2BA1F47-A54B-4B11-8BC9-4A55FF593105"
+    },
+    {
+      "class": "group",
+      "id": "3FB8AC89-6E2B-475F-B72A-6865D178F2BD"
+    },
+    {
+      "class": "group",
+      "id": "E0E54833-A76B-4EDC-AFA9-200DFF6D455D"
+    },
+    {
+      "class": "group",
+      "id": "E1BF7BFE-5D13-44C5-97D4-15C7A152A346"
+    },
+    {
+      "class": "group",
+      "id": "FED46A91-39A2-44FD-AD6C-1E2622DD7D70"
+    }
+  ],
+  "name": "Music",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FCC1D6E-497D-4158-A602-CCBC9CDF42F9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

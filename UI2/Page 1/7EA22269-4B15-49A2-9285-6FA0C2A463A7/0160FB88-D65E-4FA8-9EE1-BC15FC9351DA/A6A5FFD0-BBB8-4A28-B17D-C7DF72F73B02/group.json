@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A6A5FFD0-BBB8-4A28-B17D-C7DF72F73B02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4C63AA7-AA54-4763-96B7-6D5A3CDB4585",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A7EBD96-2946-4E4F-BF41-37D796202F08",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 1242
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "522C3F57-BF3A-40CC-AB51-48A4795D97E3"
+    },
+    {
+      "class": "group",
+      "id": "84F6F0E7-B63C-4612-A40E-BBF9D8213686"
+    },
+    {
+      "class": "group",
+      "id": "B1A24E34-318A-4A68-82DC-FA46FB41E0AF"
+    }
+  ],
+  "name": "Keyboard Phone - 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D58BDEC9-B978-4A10-BFA1-CDC04940A694",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

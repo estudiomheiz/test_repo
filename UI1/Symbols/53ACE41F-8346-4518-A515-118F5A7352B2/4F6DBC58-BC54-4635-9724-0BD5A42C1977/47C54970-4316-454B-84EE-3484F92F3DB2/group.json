@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "47C54970-4316-454B-84EE-3484F92F3DB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 60,
+    "x": 143,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DCF46B9E-8819-49AE-8644-5B42015BA429"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E70547E-F64A-4ADB-B0BB-C2B3D695426A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "246ACD1A-81EF-4358-A308-A4F90FCEE871"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14E8BDB8-FC8E-437E-80A6-060469E0FA78"
+    }
+  ],
+  "name": "Pinception",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

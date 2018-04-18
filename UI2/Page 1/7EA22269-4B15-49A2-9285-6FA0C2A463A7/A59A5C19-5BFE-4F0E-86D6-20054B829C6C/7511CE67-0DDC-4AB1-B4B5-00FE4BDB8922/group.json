@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "7511CE67-0DDC-4AB1-B4B5-00FE4BDB8922",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B8CF5DC-42F5-4B15-88BC-43C31ED90CFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4904C678-C108-4378-A943-1AE5B357D3D3",
+    "height": 216,
+    "width": 320,
+    "x": 0,
+    "y": 1002
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A0DB1338-5880-4E39-869A-DBF7AA9150B2"
+    },
+    {
+      "class": "group",
+      "id": "338B09E9-6B8F-457C-A696-389D899F79BB"
+    },
+    {
+      "class": "group",
+      "id": "8D675637-A52F-4FC2-BAFA-E7CF50D034D9"
+    },
+    {
+      "class": "group",
+      "id": "C196B89D-56B7-46FF-B5F1-7796D236F337"
+    }
+  ],
+  "name": "Keyboard ABC Shift - 4\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D1750C6C-0504-473C-94FF-8EB4388C72F4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "9BC5E93F-63DC-4D09-9406-65F6150A6ADF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

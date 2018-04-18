@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "2E391137-18C6-4546-8E07-C59384D8C22B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41E383EE-3070-4069-A347-96D112CECC2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF20130A-6815-4381-91D6-EFA966AF7128",
+    "height": 29,
+    "width": 29,
+    "x": 0,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9803FEDD-C16E-483A-8370-86E8D2F8F446"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CE93F8E-1E05-4A94-BB53-C0CFEB0DADF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7A49BD2-EA02-48A8-BE56-45A3A002E0E4"
+    }
+  ],
+  "name": "Glyphs / Settings / Do Not Disturb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2664E286-145D-4AB7-A2C3-230A46D96235",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

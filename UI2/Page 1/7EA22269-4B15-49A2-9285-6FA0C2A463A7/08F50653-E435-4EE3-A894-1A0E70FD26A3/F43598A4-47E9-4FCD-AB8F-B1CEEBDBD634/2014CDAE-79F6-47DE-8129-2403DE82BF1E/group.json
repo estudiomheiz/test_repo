@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "2014CDAE-79F6-47DE-8129-2403DE82BF1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "370F6171-7AC4-4747-919A-D347C3064B67",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A7B497C-A8BF-4341-8390-E262D5798398",
+    "height": 24,
+    "width": 24,
+    "x": 83,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0BA9060-A08A-4867-B1BB-2F9E79E88363"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9F7A7E2-E801-45E2-8FD2-2FA309E3505C"
+    }
+  ],
+  "name": "Glyphs / Navigation Bar / Add",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF39031B-CB59-42F0-BE67-C5FA9E1F932F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

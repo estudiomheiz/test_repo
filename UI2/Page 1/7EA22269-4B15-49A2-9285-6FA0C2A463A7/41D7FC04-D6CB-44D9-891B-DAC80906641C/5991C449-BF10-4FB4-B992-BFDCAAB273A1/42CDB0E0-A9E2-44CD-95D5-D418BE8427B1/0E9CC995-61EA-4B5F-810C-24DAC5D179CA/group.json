@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "0E9CC995-61EA-4B5F-810C-24DAC5D179CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF4AB44A-C0EF-4B9F-8E74-3B062730E40F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABF3EC71-900C-4814-83A4-E1D1F11EAC82",
+    "height": 238,
+    "width": 86,
+    "x": 0,
+    "y": 499
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "59CC093C-C0BC-4BB3-8BBC-8940DC8BD2B9"
+    },
+    {
+      "class": "text",
+      "id": "47BDF337-97EF-454F-86DF-3061C189E8D9"
+    },
+    {
+      "class": "text",
+      "id": "647000EC-F0D1-4938-8817-03C377536BA7"
+    },
+    {
+      "class": "text",
+      "id": "06125A3B-4CB4-4027-A47E-E23153536180"
+    },
+    {
+      "class": "text",
+      "id": "2A047D95-5F6E-4599-8A3D-1AE3CDFE2823"
+    },
+    {
+      "class": "text",
+      "id": "2CCF913D-952D-4ED7-9326-1479B5A5D5FA"
+    },
+    {
+      "class": "text",
+      "id": "7203D79E-20B8-47B0-ACBC-8B6C31C5BF0A"
+    },
+    {
+      "class": "text",
+      "id": "4D115E43-313C-4F68-92B8-1F526B2E3CDD"
+    },
+    {
+      "class": "text",
+      "id": "2E26C1DB-0F1A-4A0B-8233-D08E1BA045C6"
+    },
+    {
+      "class": "text",
+      "id": "501BE17F-3A06-45E3-8AAD-C4260BA52F1E"
+    },
+    {
+      "class": "text",
+      "id": "D6651780-7813-4D98-ACD0-0AB685C32485"
+    },
+    {
+      "class": "text",
+      "id": "8BCD1738-EF6E-45B2-85CB-88AAE843B888"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9EC6124-D81A-4DF5-80F2-60C1323852EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

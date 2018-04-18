@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "A91D4A2B-A0F5-4A1A-BC4A-81B3DD4663C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6767590C-6A10-4D34-AC14-07475CA1EAA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E890CFEF-C556-4136-ADA5-E2EBFC32B722",
+    "height": 45,
+    "width": 302,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2D0EA428-5F87-44BD-8624-C2A4770286F9"
+    }
+  ],
+  "name": "Editing Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CFF3A8E7-8E9B-4117-A6AE-9373D423B614",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

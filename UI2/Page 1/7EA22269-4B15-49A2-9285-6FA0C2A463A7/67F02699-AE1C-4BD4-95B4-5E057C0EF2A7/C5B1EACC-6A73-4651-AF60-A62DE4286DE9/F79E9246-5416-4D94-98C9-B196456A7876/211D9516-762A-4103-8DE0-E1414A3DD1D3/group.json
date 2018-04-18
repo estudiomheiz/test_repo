@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "211D9516-762A-4103-8DE0-E1414A3DD1D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6004D7F1-D92C-4036-B29D-394AC1A0601E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B388F82E-A6BC-443C-A1AD-78E411AD92BF",
+    "height": 79,
+    "width": 61,
+    "x": 87,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "218C4575-3E5F-4B0D-9CB5-423B81F34131"
+    },
+    {
+      "class": "text",
+      "id": "79B21E23-D21A-43B8-A29C-8246CDAB91B3"
+    }
+  ],
+  "name": "News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2E048D3D-42A6-493D-BC1C-B74DC4918BA9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "DBD9ACE5-3D71-4F2B-B7BC-27F6E49419AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "ADA5169E-C1FC-4DFC-B76E-DC4E96F07B46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56A27AF7-40DD-453A-9355-EE2D1BD2B152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B003E7F-C9D4-4EDF-A942-6FB321D8BCF8",
+    "height": 29,
+    "width": 29,
+    "x": 49,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DFAF87C5-9190-416E-A5EE-FE1DBA28B834"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6737CA17-51BB-4AF7-B339-19DC59E96A46"
+    }
+  ],
+  "name": "Glyphs / iTunes / Movies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05191BF7-D57F-48F4-B750-F57640942BAC",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

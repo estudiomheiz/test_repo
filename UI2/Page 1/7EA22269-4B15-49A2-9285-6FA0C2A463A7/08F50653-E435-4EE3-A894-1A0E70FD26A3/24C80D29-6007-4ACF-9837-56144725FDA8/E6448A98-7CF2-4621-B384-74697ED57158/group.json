@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "E6448A98-7CF2-4621-B384-74697ED57158",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A55F757-151F-4917-890E-CEF231BB7EEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02BE1DCB-3175-49C6-8842-3DD9E53377B6",
+    "height": 29,
+    "width": 32,
+    "x": 196,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BBA3A68-022F-4221-B820-674F9BA4795B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46E586C1-D02A-424B-9231-7F05F435859D"
+    }
+  ],
+  "name": "Glyphs / Phone / Voicemail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B55FEB74-BFCF-49F3-98B5-57FAE7016F48",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

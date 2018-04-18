@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "165F29BA-09CA-462E-8154-9A491741DC9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF252BCE-2192-48AE-926E-215A0F18B440",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4270BCAB-610E-4C70-B284-4432747A8E87",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 932
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Apple Music",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02B4B3C4-0F44-4CAD-8052-0D3B3DDB02CE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85E4EFC2-CDA4-48FC-866F-F4E3875615E4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "6B612F6F-9D73-4C5B-9E8F-1708C49B9347",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA843906-1CA5-4AEA-8CEC-BE5979CB3F8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87CA36C5-90B2-424C-BFD6-A4C1B06E745F",
+    "height": 31,
+    "width": 357,
+    "x": 12,
+    "y": 223
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "32248A6A-06BB-49BD-B09A-4CF75C548B20"
+    },
+    {
+      "class": "group",
+      "id": "414B3ED3-4A0E-422F-8A1B-610150D0CA2B"
+    },
+    {
+      "class": "text",
+      "id": "6780605C-63BD-4D60-88E1-099E6E775493"
+    }
+  ],
+  "name": "Bottom Rail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D84B570-F6EE-4A27-9118-665B30A409D4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

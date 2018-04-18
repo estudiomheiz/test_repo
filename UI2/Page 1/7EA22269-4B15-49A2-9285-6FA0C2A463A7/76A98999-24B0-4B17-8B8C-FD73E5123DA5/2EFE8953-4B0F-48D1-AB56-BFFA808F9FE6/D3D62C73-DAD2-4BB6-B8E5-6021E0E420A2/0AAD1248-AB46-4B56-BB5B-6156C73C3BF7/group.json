@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "0AAD1248-AB46-4B56-BB5B-6156C73C3BF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2D9BEA9-C011-4285-AD36-5C93389CBF86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "789D4066-25DD-4940-B624-D835422247B7",
+    "height": 28,
+    "width": 28,
+    "x": 15,
+    "y": 17.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F0D0F6DA-CED2-44C1-AF7B-F1E75CB401A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "339A748E-D97E-4D93-8D83-7245F3F66D03"
+    }
+  ],
+  "name": "Glyphs / Quick Actions / Facebook / Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50302A2A-4233-47D5-AD1D-B6CAA9FBC877",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

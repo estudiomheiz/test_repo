@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "ADC14CBC-5F06-4873-8E82-9E475B44C562",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A9F1269-A750-4D0D-A94B-5A4D5F45108B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74FD5223-5CCB-46B0-B379-A9DFFE565523",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 762
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "91D1D7A2-C13F-498D-8AAF-06A2468C8518"
+    },
+    {
+      "class": "group",
+      "id": "337A75E1-E3B0-4959-BF20-4B8BBB6E3EB0"
+    },
+    {
+      "class": "group",
+      "id": "9BCFFE4A-29EA-41B7-924C-0CE01FA0D68B"
+    },
+    {
+      "class": "group",
+      "id": "5B8D1385-D07E-4DC2-B10B-87FB21E04ECB"
+    }
+  ],
+  "name": "Keyboard 123 - 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "79D901FF-3B92-464C-84A2-5017234D399B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "7B766BD0-5297-491F-BE98-5388997F9340",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "do_objectID": "0160FB88-D65E-4FA8-9EE1-BC15FC9351DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E73CE9D3-B9F3-4F22-87A1-73804658E2BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2642851F-3B19-4CC6-B2A8-42D3E727D774",
+    "height": 1980,
+    "width": 800,
+    "x": 1081,
+    "y": 4280
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FAB7D33F-9859-4105-96A0-017D75B0E001"
+    },
+    {
+      "class": "group",
+      "id": "0A8607D3-989C-4111-8C88-E10596F28316"
+    },
+    {
+      "class": "group",
+      "id": "5465584B-3EE6-4472-B1D5-9C4ADAD9A5E5"
+    },
+    {
+      "class": "group",
+      "id": "EE5F9976-839D-465C-9E69-7A50DD6F5583"
+    },
+    {
+      "class": "group",
+      "id": "873191CF-AD7F-42D6-BC42-7574A47D29E8"
+    },
+    {
+      "class": "group",
+      "id": "F8F0F095-7242-4359-B3E5-C0D14FDE3B83"
+    },
+    {
+      "class": "group",
+      "id": "9F82841B-CB2D-44A2-9AED-D8EF356ED33F"
+    },
+    {
+      "class": "group",
+      "id": "34A90086-B1D8-4999-9AA4-367F73AA6534"
+    },
+    {
+      "class": "group",
+      "id": "8D668725-DA4C-4E68-B276-9858C318BCC9"
+    },
+    {
+      "class": "group",
+      "id": "C87A51DA-81E3-40AB-B412-6B00D1352FD6"
+    },
+    {
+      "class": "group",
+      "id": "A6A5FFD0-BBB8-4A28-B17D-C7DF72F73B02"
+    },
+    {
+      "class": "group",
+      "id": "5D627CF1-E5D4-42C7-83DE-0B316227792A"
+    },
+    {
+      "class": "group",
+      "id": "ADC14CBC-5F06-4873-8E82-9E475B44C562"
+    },
+    {
+      "class": "group",
+      "id": "B1FE129C-49CF-441F-9E79-A4D340CC74AC"
+    },
+    {
+      "class": "group",
+      "id": "7C330002-F9C0-4AA9-A351-BE0F31E9E50C"
+    },
+    {
+      "class": "group",
+      "id": "9B87E9FF-36BC-42B0-8DC6-0F7FB1BE336B"
+    },
+    {
+      "class": "group",
+      "id": "58E2A894-ECF1-438B-9252-BCDBAFFB1101"
+    }
+  ],
+  "name": "Keyboards - iPhone 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "534D60BB-11AA-4F81-9C15-5C69BD19E4D9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

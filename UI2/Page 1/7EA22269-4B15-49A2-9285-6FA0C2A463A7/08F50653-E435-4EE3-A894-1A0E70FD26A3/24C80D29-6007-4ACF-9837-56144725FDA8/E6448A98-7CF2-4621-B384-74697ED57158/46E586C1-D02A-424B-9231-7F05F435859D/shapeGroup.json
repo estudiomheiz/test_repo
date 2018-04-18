@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "46E586C1-D02A-424B-9231-7F05F435859D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F3A3CED-8E0C-473C-A340-3E01E76BCB79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "872F5D7A-8592-4C6C-B3BB-8922BE50CB4D",
+    "height": 14,
+    "width": 32,
+    "x": 0,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7C5CBC7D-3FFD-4693-BA94-BA8E1338D6E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "F97BA250-E568-4C0A-A13C-1B9F01D20A1D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4DFC90F-8C5A-4481-9AED-82DF2D3C1177"
+    }
+  ],
+  "name": "Voicemail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C4E9FBF-8754-477E-98CE-A16E752946BF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5686274509803921,
+          "green": 0.5725490196078431,
+          "red": 0.5725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "771E4E0C-B0BE-4079-95E5-5BC5603AC44C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B870352F-29C2-4070-9707-03A7C2FC926D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C76A9233-5FAD-4984-9BC6-EBEE840BAD1F",
+    "height": 132,
+    "width": 375,
+    "x": 0,
+    "y": 204
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F185EE68-E625-4ED2-9F02-BCBB960CD629"
+    },
+    {
+      "class": "group",
+      "id": "EE0BE7CF-AEC6-4F97-87A5-4D34A5CFA797"
+    },
+    {
+      "class": "group",
+      "id": "65B6B174-DB4D-4454-B706-49CB64B8C569"
+    }
+  ],
+  "name": "Table Cells with Chevron",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1ECF80AD-7B32-4F59-A83A-8E351EF6CBD2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "50627B01-85D0-4C51-936B-7612B554537B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E48EBA50-8F11-4036-B283-FD8568A1460E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F1164BA8-FB0A-4679-A3F0-ECC93567ED04",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 624
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Weather",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DD836D8-4FE4-4547-AA58-A8DD3CFF4895",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "56C59166-B6E7-4A42-8086-72D2459A3361",
+  "verticalSpacing": 0
+}

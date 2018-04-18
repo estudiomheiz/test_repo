@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6774B64B-DF91-4AFA-B26E-486CA53E34A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F33F633-899E-4CE4-B78E-F6A1E6A5D50E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4430E422-A9EC-4349-BAB8-0742E05EF4F4",
+    "height": 79,
+    "width": 61,
+    "x": 261.4990641832678,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CAB8CD32-5578-40E4-A97D-EF7D655B1A45"
+    },
+    {
+      "class": "bitmap",
+      "id": "3DECA7C0-6A9E-4173-BA96-A25FC329EE5F"
+    }
+  ],
+  "name": "Music",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C4CEEA57-60BC-4CC0-9F64-0D4126C3E1DB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "B36BBF34-E682-4E6C-9029-F792AD9E1343",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

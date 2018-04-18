@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0F48AE5C-A32E-4594-857A-89D471BA087C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1169B4A3-4026-4374-A349-B74358322C7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "748754A1-F219-4077-90AA-AB92B9D062B6",
+    "height": 49,
+    "width": 93,
+    "x": 94,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77850D5F-1136-428A-895B-03D3B4E556CF"
+    },
+    {
+      "class": "text",
+      "id": "99440B39-E494-4F8B-9511-1AF77C317329"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1532530-1455-4DE3-93B6-030802A6E391"
+    }
+  ],
+  "name": "Tab 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "978D83D4-BF66-435C-94CD-11C3906B9229",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

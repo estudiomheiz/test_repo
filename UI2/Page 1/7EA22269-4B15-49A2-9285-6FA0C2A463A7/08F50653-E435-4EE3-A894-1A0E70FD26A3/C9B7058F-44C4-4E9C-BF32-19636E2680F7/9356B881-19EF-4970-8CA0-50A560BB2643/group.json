@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "9356B881-19EF-4970-8CA0-50A560BB2643",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5995148A-E1C3-43F8-A8E2-5BD3C440DF8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B76E9A7D-B237-4B1E-93BC-A27932AF22A1",
+    "height": 29,
+    "width": 29,
+    "x": 74,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "363A3BB3-EB03-4462-9BF7-80E6CC5B1F4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E4190A0-5C61-4151-8763-72BF24918D91"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39DCE419-5B47-418F-9351-488FA55F67C6"
+    }
+  ],
+  "name": "Glyphs / Settings / Bluetooth",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DE5E1D3-43F1-4EC1-A921-ADDBD838B7F0",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

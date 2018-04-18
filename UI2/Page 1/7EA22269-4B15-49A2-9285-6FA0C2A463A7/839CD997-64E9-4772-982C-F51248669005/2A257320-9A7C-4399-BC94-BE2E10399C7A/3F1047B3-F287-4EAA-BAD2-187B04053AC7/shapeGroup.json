@@ -1,0 +1,93 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3F1047B3-F287-4EAA-BAD2-187B04053AC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E15CF96-87DB-4982-9321-0C231332318C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4AFB0573-ECF5-445D-BF0C-A337AF3685AC",
+    "height": 14,
+    "width": 8,
+    "x": 297,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4F25F125-60F4-4BBE-9712-480140A04B20"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1DDFE27-85B0-4AB6-A7EE-01EC5F062504"
+    },
+    {
+      "class": "shapePath",
+      "id": "917AE1B8-88EB-4E16-AC64-593A19D77BD1"
+    }
+  ],
+  "name": "Bluetooth",
+  "nameIsFixed": true,
+  "originalObjectID": "194D5ABA-80CA-456D-97D2-A89EB55D0BBD",
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5F4AB832-8DD6-47E4-9704-08A45422F50F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "006EB4D8-FDD0-4AB6-8561-DDA8A405337F",
+      "opacity": 0.4
+    },
+    "do_objectID": "FE6077A9-1FBD-4E31-89F0-EDFE689E5A1C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "B9EF5ECA-A244-4E3D-8F6B-A6694E89496E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E142A09-9F50-4684-AFD9-033E130AFC1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3210734E-EC5D-4CE9-810B-1A3E395570F1",
+    "height": 42,
+    "width": 414,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B82BF89-0C70-4D2C-9416-FB0672D866AD"
+    }
+  ],
+  "name": "Keyboard Quick Type",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "663A8097-B5DC-4F58-8D8A-A6F02341C992",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

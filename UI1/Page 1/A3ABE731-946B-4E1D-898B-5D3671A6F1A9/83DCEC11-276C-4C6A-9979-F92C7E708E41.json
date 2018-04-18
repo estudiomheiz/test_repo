@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83DCEC11-276C-4C6A-9979-F92C7E708E41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "286C79B3-C2A0-42A4-804D-452CB413D494",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CE716B6E-9E40-4DD5-B668-EB653DDAB176",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 778
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C15634F1-A041-4C6B-A21D-4D0BC1BDE6AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B68EEDEE-4D26-4B3B-8803-48F7C24A3297",
+  "verticalSpacing": 0
+}

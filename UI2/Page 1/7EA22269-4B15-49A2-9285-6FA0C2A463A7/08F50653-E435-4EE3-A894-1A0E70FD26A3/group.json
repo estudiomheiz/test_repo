@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "08F50653-E435-4EE3-A894-1A0E70FD26A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65DC5AF1-A8FA-4CCC-81E2-430307499215",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9709E3A8-9356-419B-9AF0-1477F79B2025",
+    "height": 870,
+    "width": 753,
+    "x": 2149,
+    "y": 2842
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "47896D90-9749-4B06-9372-7564EC79210C"
+    },
+    {
+      "class": "group",
+      "id": "C5DB1CA2-DECE-4F12-8876-F45BFEC77102"
+    },
+    {
+      "class": "group",
+      "id": "EDC7B69C-04B1-4728-BD13-28A9C0C47165"
+    },
+    {
+      "class": "group",
+      "id": "D02127D5-0FBC-43CC-A7DC-EAA44945C31E"
+    },
+    {
+      "class": "group",
+      "id": "AE122F52-6ADF-4273-8C9B-053A17950BE0"
+    },
+    {
+      "class": "group",
+      "id": "CD0D037B-FC8B-4B6C-8815-886498B71A2A"
+    },
+    {
+      "class": "group",
+      "id": "24C80D29-6007-4ACF-9837-56144725FDA8"
+    },
+    {
+      "class": "group",
+      "id": "DC354AAD-12E4-4E56-8711-CFB2DD07A011"
+    },
+    {
+      "class": "group",
+      "id": "C9B7058F-44C4-4E9C-BF32-19636E2680F7"
+    },
+    {
+      "class": "group",
+      "id": "E8F97C23-EF99-46B4-8FE4-D353E278D79F"
+    },
+    {
+      "class": "group",
+      "id": "4F5B6F5B-9F6B-4D9B-A315-6848E3C99A0A"
+    },
+    {
+      "class": "group",
+      "id": "E2B9B4F1-ECB0-411B-A5AB-B39092729F64"
+    },
+    {
+      "class": "group",
+      "id": "962C661A-A6F8-45F8-927F-485351CC8D3E"
+    },
+    {
+      "class": "group",
+      "id": "F1EE665B-382E-48E2-8AD0-3A8B6E3CBED6"
+    },
+    {
+      "class": "group",
+      "id": "F43598A4-47E9-4FCD-AB8F-B1CEEBDBD634"
+    }
+  ],
+  "name": "Glyphs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "755C06C9-9430-4386-B7FC-F9A0834CF761",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

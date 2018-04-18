@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "42A34281-A41A-42D9-8DA2-4A674EC3595C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E00FC2D8-72AF-46F7-953A-0AB6EC5897F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9634399F-AADB-4976-B7D4-1DC000192D4E",
+    "height": 80,
+    "width": 72,
+    "x": 252,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BE65B064-3EC5-44E7-B149-081708BEE367"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A9CEFF8-094B-4B2D-8028-D8F7680226BB"
+    }
+  ],
+  "name": "Facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2111EDDF-F1DD-4C82-83EB-91D99E86246A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

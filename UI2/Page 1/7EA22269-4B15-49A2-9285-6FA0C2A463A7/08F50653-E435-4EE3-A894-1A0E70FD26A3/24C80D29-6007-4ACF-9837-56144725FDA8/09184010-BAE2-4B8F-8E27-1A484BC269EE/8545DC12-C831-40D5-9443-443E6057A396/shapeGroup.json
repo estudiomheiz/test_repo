@@ -1,0 +1,137 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "8545DC12-C831-40D5-9443-443E6057A396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2C2F856-FF79-48FF-B285-BB7AE880A133",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59F9197B-079D-4BAA-A441-F56C33274AFD",
+    "height": 24.5,
+    "width": 24.5,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3018B5CF-BE20-4785-B043-33447301C0BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E5C3507-DD5B-4B85-A674-8DCAEBB90304"
+    },
+    {
+      "class": "shapePath",
+      "id": "11742EF9-06A6-4BA0-90B0-E62F9EA001EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "F98C73E7-3B58-452B-8937-6DA9DDA6E149"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8E3FE0E-E7AB-4823-B001-86B578CD02EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "C403386A-7498-49DA-8619-B0BFEE7052D8"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E97A27C-574A-4481-AADC-A6A3694043B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "929CDD82-AAF6-464D-B736-91FA8C97FFB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "238F2B8A-C811-453B-914E-D6FE07BE6739"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F581FF3-5625-4F81-A395-6EAF43E35DD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "59DEE188-54F2-455D-8D6A-10D79B3087CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "791EB0C3-03D9-487A-9455-E39E2D4EBBF3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8B8BC64-AA16-4B33-A5C4-D147BF1D09BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "A96FDA57-4327-4C0B-B9D2-7F2141EAEA27"
+    },
+    {
+      "class": "shapePath",
+      "id": "966B65DC-18F1-4022-B7AE-C12BEA6EEC4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A981FADB-814A-4712-A8FC-974A99E2F824"
+    },
+    {
+      "class": "shapePath",
+      "id": "A368A896-C482-42DB-9F75-1A4C15360717"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC750BAE-D102-4AAB-81BB-7D9933410B8D"
+    }
+  ],
+  "name": "Dial",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6EFB779-5538-4242-9F88-3C2F202AA5E3",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.5725490196078431,
+          "red": 0.5725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

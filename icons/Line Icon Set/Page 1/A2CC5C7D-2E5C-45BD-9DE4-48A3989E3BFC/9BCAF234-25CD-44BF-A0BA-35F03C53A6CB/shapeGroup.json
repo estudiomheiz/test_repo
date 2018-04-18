@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9BCAF234-25CD-44BF-A0BA-35F03C53A6CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 568,
+    "y": 775
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7592949F-F5CF-4DCD-B698-F99B318238A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "63FF1BE4-12E9-464A-9366-DEFF1A6B26D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADDE2E17-AA4B-4831-BCBA-B77B51D61E9D"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDAB0F61-27A0-4194-B762-AC70E05599B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F197F1B-76AC-4F7C-B8D9-2A0AED4296E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "07A8C221-871C-4C34-9536-1AD681590FB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "2797F3B9-9D41-4494-84DF-AD2A3476E89C"
+    }
+  ],
+  "name": "Fill 83",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.996147096157074,
+          "green": 0.9987193942070007,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

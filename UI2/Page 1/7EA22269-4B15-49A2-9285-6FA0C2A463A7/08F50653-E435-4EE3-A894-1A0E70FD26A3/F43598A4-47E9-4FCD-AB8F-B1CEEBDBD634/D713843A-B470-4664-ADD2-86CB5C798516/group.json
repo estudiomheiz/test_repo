@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "D713843A-B470-4664-ADD2-86CB5C798516",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C314E15E-9D43-4794-B380-3BE6F5C47BE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AB50F97-564A-4396-894D-FD433A8328B8",
+    "height": 24,
+    "width": 24,
+    "x": 167,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69BBD849-3E1D-4A76-9E93-537E9A523EBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8241A99A-B619-4E98-84D1-379EFEA01B3A"
+    }
+  ],
+  "name": "Glyphs / Navigation Bar / Wish List",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B44B9CE-9F29-486D-9117-EE3F3564A5D2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

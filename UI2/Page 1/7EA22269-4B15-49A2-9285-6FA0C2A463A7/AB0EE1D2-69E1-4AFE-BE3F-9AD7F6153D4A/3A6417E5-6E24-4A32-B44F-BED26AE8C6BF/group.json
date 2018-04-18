@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "3A6417E5-6E24-4A32-B44F-BED26AE8C6BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F903A57B-8DD7-4588-8B13-7C07951A3D2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34446D6C-C2F4-4E96-A874-2B6C74B74FE0",
+    "height": 226,
+    "width": 414,
+    "x": 464,
+    "y": 760
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4BAFAF20-7517-4C2A-90F8-31A028B158A5"
+    },
+    {
+      "class": "group",
+      "id": "664BF38C-6DF9-4588-B1E2-7C7A44A677E1"
+    },
+    {
+      "class": "group",
+      "id": "B4FD0450-27B9-4DF7-9FB9-BE634F0E3A05"
+    },
+    {
+      "class": "group",
+      "id": "2DD10A79-8327-43BE-AC82-0E12D3FF613B"
+    }
+  ],
+  "name": "Keyboard 123 Dark - 5.5\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "234B3397-28C2-40B5-9B17-1E8D38727351",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "766ED2F4-D651-46B3-ACEE-317FBB444C8A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

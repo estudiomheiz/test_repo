@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "6FBF7D0B-1287-4E3A-9BDA-3CECB45D8378",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 77,
+    "x": 40,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "16E38C36-E1EB-4F28-9EF4-DCEBDF574753"
+    },
+    {
+      "class": "text",
+      "id": "016C7125-AB34-4A97-9AD9-96B714326001"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "179B4A61-0C0F-44F3-8378-85D2328ECAFF"
+    }
+  ],
+  "name": "AirPlay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

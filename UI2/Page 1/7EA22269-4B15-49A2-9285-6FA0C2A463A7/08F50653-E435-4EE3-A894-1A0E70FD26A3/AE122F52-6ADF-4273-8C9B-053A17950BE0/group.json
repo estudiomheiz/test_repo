@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "AE122F52-6ADF-4273-8C9B-053A17950BE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF6413C8-B4D9-4949-A2EB-F3D9946D8BF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9FFE6F2-1F03-418B-8D80-86363E27DB1B",
+    "height": 29,
+    "width": 225,
+    "x": 455,
+    "y": 441
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D7368117-388E-438E-A3C2-D2C027BEA89C"
+    },
+    {
+      "class": "group",
+      "id": "62B00662-8271-4F27-B35D-8D7248093171"
+    },
+    {
+      "class": "group",
+      "id": "9E1CCE58-46CE-48E5-8185-7C24744ED031"
+    },
+    {
+      "class": "group",
+      "id": "3043900D-0FF8-4778-9D5B-A174E22FF299"
+    },
+    {
+      "class": "group",
+      "id": "41005FF3-AA2A-47B9-B6CB-E7E331100A2D"
+    }
+  ],
+  "name": "News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2239AB6-9881-4525-9214-5D9B538F27A3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

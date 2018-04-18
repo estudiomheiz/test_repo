@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "006D9611-34D0-4391-A833-043A7B528743",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC956D75-A08F-4190-96C9-35DDED951A06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5ECDBB96-A9F9-4883-B5FA-6F04192F1C4E",
+    "height": 29,
+    "width": 29,
+    "x": 49,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8B04ACD7-FFE8-4076-AA39-4A43C6D950D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B9CC033-A949-4261-B357-12B515395800"
+    }
+  ],
+  "name": "Glyphs / App Store / Categories",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47EC3A23-EE4D-4B93-B91B-57209161D66E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

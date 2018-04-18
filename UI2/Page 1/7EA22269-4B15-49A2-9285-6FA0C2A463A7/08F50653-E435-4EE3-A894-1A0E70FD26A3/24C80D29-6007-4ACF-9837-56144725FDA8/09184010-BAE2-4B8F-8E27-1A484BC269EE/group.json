@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "09184010-BAE2-4B8F-8E27-1A484BC269EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF88E776-31FB-49A8-99B0-B000A657F0D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43251154-3CEE-4540-95A2-DC33CBCB56BF",
+    "height": 29,
+    "width": 29,
+    "x": 147,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DD7DE72-A344-43FC-B07B-EFFD375C06DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8545DC12-C831-40D5-9443-443E6057A396"
+    }
+  ],
+  "name": "Glyphs / Phone / Dial",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4594957-63AC-4DA9-8635-1BA834B6471D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

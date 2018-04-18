@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "F113D2C5-9320-4752-BD48-B6F142D841A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A09E7E8C-6477-4338-9DE7-960FEDE44FD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCD2FE3C-8664-411C-B075-3DDAEDDAECD7",
+    "height": 14,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5346D943-D233-499B-B019-3143741FC7F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B02A580-D34E-4A65-B3B3-B3F6FA418375"
+    }
+  ],
+  "name": "Glyph - Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF954C68-4449-4FD2-A030-8BBAAEA5A99E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

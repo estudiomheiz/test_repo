@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "22BC6386-76A9-4AE6-AB19-F27AAC4D94E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35A26461-8BF9-4450-806F-B7CD6A2964C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "644F8A7B-3EFC-4176-B6F3-D937AAF0F077",
+    "height": 19.47459999808519,
+    "width": 16.5,
+    "x": 4.5,
+    "y": 2.530000001915255
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02DF6298-D6E3-41B9-9380-7F57BC7672C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2BD052C-8342-44F4-8938-57C12BEDD6DE"
+    }
+  ],
+  "name": "Flag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47678735-7779-4813-AD4C-696FB30E25F7",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.4941176470588236,
+          "red": 0.08235294117647059
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "39DCE419-5B47-418F-9351-488FA55F67C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8263FDC-9BD1-408D-B808-80FB3EDA8D04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "465EF344-B202-4B92-BAE5-E7F8C2E70ABF",
+    "height": 20.1971,
+    "width": 11.091,
+    "x": 8.489999999999782,
+    "y": 4.690000000000055
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "42C3C425-166B-44A2-A1A5-EE1A83D85261"
+    },
+    {
+      "class": "shapePath",
+      "id": "6441D0E7-CFF4-4F80-B489-BAF21A4D5B4B"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2181C83-13B8-40B9-B00E-F49D9F180A60"
+    }
+  ],
+  "name": "Bluetooth",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3295F45-6492-43E0-932C-00AD1E99AAFE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "FD4AFFB0-0814-4E10-9639-49BACC4BA8F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A576B29-9CD7-4D26-80D7-36E2E4B1D4A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E10513F3-4E1B-4A13-8F4F-778A771ADBB0",
+    "height": 265,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FDB4D19D-DEA2-4B9D-AE06-1DB7195B0564"
+    },
+    {
+      "class": "bitmap",
+      "id": "DEF3A367-672E-4A5A-BCA7-F3813F90736F"
+    },
+    {
+      "class": "text",
+      "id": "1BCC1DAF-19BA-48DE-87AA-9493EB8B1D36"
+    },
+    {
+      "class": "group",
+      "id": "E8D174D5-9C5C-458B-A0A0-ADE792E9FDB1"
+    },
+    {
+      "class": "group",
+      "id": "A885DA2F-1D4E-475F-BE0B-E917661940AF"
+    },
+    {
+      "class": "group",
+      "id": "DED4C751-61FC-4462-B008-E7BF28460ECC"
+    },
+    {
+      "class": "group",
+      "id": "7C16F953-F83E-4FC3-A257-18B3339FB8CE"
+    },
+    {
+      "class": "group",
+      "id": "A5878D7D-B032-4273-9F4C-3D2A5392F5A4"
+    },
+    {
+      "class": "group",
+      "id": "29CF8373-DE61-4009-92E2-BF8ADF0505A2"
+    },
+    {
+      "class": "group",
+      "id": "C2626FFC-5283-4A1F-B3B3-EF9A389841F5"
+    },
+    {
+      "class": "group",
+      "id": "ABEF0C02-F2A8-41AD-9C21-7739219D3756"
+    },
+    {
+      "class": "text",
+      "id": "7ECDB1B7-1D1A-412E-8BB2-2F2D52F65FD5"
+    }
+  ],
+  "name": "Emojis",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0D667545-99E4-4A60-B2A5-94D167C30A45",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "E55E898A-8DEC-4CE1-9F3D-FD254EC65EFE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "50816D0D-DEA5-4FEC-8042-DFC2410B61D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B6A5591-8A4D-4EC0-9D9D-7D8C03AFCDA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8B9ECB9-7CD6-42FD-9C7F-B86F5470429A",
+    "height": 271,
+    "width": 414,
+    "x": 0,
+    "y": 1552
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CD46389-62C9-4AF7-831B-B8B092CA0DD1"
+    },
+    {
+      "class": "text",
+      "id": "4F1F9664-5E67-4A08-B21E-CB172260714B"
+    },
+    {
+      "class": "text",
+      "id": "9E10BF43-AF79-44AC-BD12-3E6A02D9931D"
+    },
+    {
+      "class": "bitmap",
+      "id": "74F9874C-04CD-4182-B99A-508377931C24"
+    },
+    {
+      "class": "text",
+      "id": "A03F1CE2-DC50-446C-9F48-EED2E2BE26D7"
+    },
+    {
+      "class": "group",
+      "id": "5EF2B38B-B5AA-4A78-918E-E79789E2296D"
+    }
+  ],
+  "name": "Keyboard Emojis - 5.5\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75D4204F-BDBD-419D-855A-1EB501A69457",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5881D042-5943-4743-90B3-289EF98ACAD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0312F1DF-545D-455B-BA74-CF1693E504B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D7B060E4-274F-44FA-B65B-D8979FD4BE2D",
+    "height": 419,
+    "width": 359,
+    "x": 8,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Control Centre/Main",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAAE2C0A-6E9F-435A-8A61-58CEE58823B7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A23470EB-FDC0-440F-8D0E-B9B785A4ABCD",
+  "verticalSpacing": 0
+}

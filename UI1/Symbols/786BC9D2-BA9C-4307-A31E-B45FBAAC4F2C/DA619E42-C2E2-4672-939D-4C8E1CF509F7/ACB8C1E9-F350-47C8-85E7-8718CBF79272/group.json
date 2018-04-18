@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "ACB8C1E9-F350-47C8-85E7-8718CBF79272",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 363,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "93586E8D-8A44-4546-A30F-34F0E2FF1C70"
+    },
+    {
+      "class": "text",
+      "id": "FA1FC753-2414-483A-AD80-2C4962317C78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01D40A0A-3AFB-48A5-ABCD-006A9C4091E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0765116-48FF-478D-9871-BD92FF595731"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EA01B29-3500-48C9-BC46-DC3C1F728A14"
+    }
+  ],
+  "name": "Status Bar (Lockscreen)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

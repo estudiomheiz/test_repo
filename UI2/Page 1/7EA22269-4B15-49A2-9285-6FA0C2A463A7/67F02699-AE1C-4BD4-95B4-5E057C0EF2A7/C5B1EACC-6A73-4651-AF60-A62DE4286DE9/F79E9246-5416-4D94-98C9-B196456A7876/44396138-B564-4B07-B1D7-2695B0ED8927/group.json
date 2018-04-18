@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "44396138-B564-4B07-B1D7-2695B0ED8927",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CBD8041-848A-4B3F-A29D-D41CD9651F9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DB10CE9-138E-4FF4-B1D7-CB597DA2488C",
+    "height": 79,
+    "width": 61,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BEF9DF10-C039-43EF-BD84-5BDCDEBAAEF3"
+    },
+    {
+      "class": "bitmap",
+      "id": "C31BEC8F-85E6-439B-8ACA-4F1E7B6C8A3A"
+    }
+  ],
+  "name": "iBooks",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "611964F2-4F58-460C-9C3B-81678DA237B8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "69C64088-0CCC-425F-9CB7-3D973514A25C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

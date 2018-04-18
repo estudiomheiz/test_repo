@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4B6AD335-7B3D-491A-8C57-3C7A6A9C5AA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "862A30D0-154E-4F33-A97C-D2AA0372C560",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EBD414A-1EC3-430E-8EDD-45D307D20712",
+    "height": 265,
+    "width": 320,
+    "x": 0,
+    "y": 1482
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8999762C-C6BD-4954-9D7E-FCC03FAB957B"
+    },
+    {
+      "class": "group",
+      "id": "FD4AFFB0-0814-4E10-9639-49BACC4BA8F4"
+    }
+  ],
+  "name": "Keyboard Emojis - 4\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "40D29F55-6DC2-48EF-B95D-C06E3F893EB2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "E9C71B0A-EA0E-498B-870F-4547AF2D4F40",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "FA86F783-F71B-4DB1-9390-D9BDAE117ADE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2495C3EC-9294-4DF6-B40A-DB1387F92FA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D13A993A-6B8F-48BD-BECC-9108654AF89C",
+    "height": 90,
+    "width": 184,
+    "x": 200,
+    "y": 3821
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8C5E5829-506F-4314-8861-DEB8D9BAF067"
+    },
+    {
+      "class": "group",
+      "id": "221E45FF-FBE9-45DC-8356-0F0C20F57D78"
+    }
+  ],
+  "name": "App Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D79A7F29-A65C-4E7A-8A0E-D85D65C88B2B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

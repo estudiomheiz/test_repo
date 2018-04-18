@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D8629356-E097-464E-B0BF-30B3C373B389",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCFE83E3-8990-4B68-9C17-11A091A6F45C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5628ACDC-22E8-48E9-95AA-60C7A08CA117",
+    "height": 5.5,
+    "width": 33.5,
+    "x": 6.5,
+    "y": 7.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CAEED27F-350A-4B1C-9D83-3AC2C69D82F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "76ADBAFE-E738-4B08-A008-F1A4B80F0D5A"
+    },
+    {
+      "class": "oval",
+      "id": "20E18616-23BE-4FCA-8D0C-8D3647D27E57"
+    },
+    {
+      "class": "oval",
+      "id": "EFCFAC0C-79C9-4B55-A249-BC692E6DC971"
+    },
+    {
+      "class": "oval",
+      "id": "85EC7464-0A12-486B-A66E-7855E9F92E97"
+    },
+    {
+      "class": "oval",
+      "id": "149F7028-E1E6-4F80-87E8-06317945B1B1"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9EA4E28-E707-4780-8A1E-DBF40BB80949",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

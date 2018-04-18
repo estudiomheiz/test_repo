@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "E0E54833-A76B-4EDC-AFA9-200DFF6D455D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39130D81-F040-4DE5-A6A1-7DE0828C2CB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF367401-FD81-434F-8E87-9EF597B2EBC6",
+    "height": 29,
+    "width": 29,
+    "x": 98,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8F09D9D-8279-47A4-9562-DB72FE78B3C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1515FF08-C24C-49AC-A6EC-E77A62D361AC"
+    }
+  ],
+  "name": "Glyphs / Music / Browse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B047FA53-069A-41DE-B2BD-3BCDE74F478D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

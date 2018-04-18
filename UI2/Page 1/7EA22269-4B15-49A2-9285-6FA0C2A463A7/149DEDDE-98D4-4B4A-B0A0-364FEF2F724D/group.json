@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "149DEDDE-98D4-4B4A-B0A0-364FEF2F724D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "197D8ACF-571D-4243-B35B-DE91C0B363DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4553B580-F33A-481F-B4F5-E37B3C09CAB1",
+    "height": 967,
+    "width": 495,
+    "x": 2144,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8754C7B6-F572-444B-9A0E-6C9121C0CEFE"
+    },
+    {
+      "class": "bitmap",
+      "id": "4CCFC3C5-F5D2-4D2D-932B-875982E880CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF61D091-4FF1-43C7-8185-E810273C6153"
+    }
+  ],
+  "name": "Apple iPhone 7 Jet Black",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06925E13-DB8E-412F-BAD6-E187BF7E89DC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

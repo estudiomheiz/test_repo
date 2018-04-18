@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "4D333B05-C524-42A0-8525-BA7B3D63776F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99AE2744-E5E6-4569-8D93-A7689784A161",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E83C68E-41D2-44ED-97CC-A19391373FDF",
+    "height": 29,
+    "width": 29,
+    "x": 111,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81C61468-FF2A-4A6D-84BF-1283866FADFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE143DE1-AA7C-4A5D-A811-FB7208478BF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F5E6FD3E-930C-46C6-98D7-4705D0BE64F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABE7F4D7-925D-4839-8427-6E16668E23DB"
+    }
+  ],
+  "name": "Glyphs / Settings / Display & Brightness",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E97D308-7D17-42ED-9170-947786BF3615",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

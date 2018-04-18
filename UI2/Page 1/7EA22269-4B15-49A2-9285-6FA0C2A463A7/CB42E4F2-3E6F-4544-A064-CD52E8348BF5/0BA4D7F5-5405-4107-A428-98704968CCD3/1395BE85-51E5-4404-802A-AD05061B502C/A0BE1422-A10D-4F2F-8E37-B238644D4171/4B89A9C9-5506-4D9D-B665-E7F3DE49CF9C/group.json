@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "4B89A9C9-5506-4D9D-B665-E7F3DE49CF9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "253B9B51-2782-49B7-8762-2B6637699A12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9C08439-F6D3-4355-9459-104FCFC4B75B",
+    "height": 60,
+    "width": 60,
+    "x": 6,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47E2C87B-0789-4825-A030-FE7786BC77F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12A74065-9418-45EB-8774-F936971811CC"
+    }
+  ],
+  "name": "Glyphs / Share Sheet / Add to Homescreen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "772462D1-6213-4C16-939C-05C4FD3436DC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

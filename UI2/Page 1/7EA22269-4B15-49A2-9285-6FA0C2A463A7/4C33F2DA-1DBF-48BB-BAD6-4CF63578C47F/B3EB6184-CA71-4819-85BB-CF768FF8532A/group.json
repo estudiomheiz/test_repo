@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "B3EB6184-CA71-4819-85BB-CF768FF8532A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1D6C8B6-D231-45E2-86B8-BD0B184FC5A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01940D45-F276-48F2-A065-453F2F585D87",
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA65C9C8-BD4D-43F4-BC37-2DDAB6E186B2"
+    },
+    {
+      "class": "text",
+      "id": "E393C616-F6C5-4B17-B1F9-75D9CAC5F54B"
+    },
+    {
+      "class": "text",
+      "id": "D60D98D7-268C-47D0-9032-E128EED6A88C"
+    },
+    {
+      "class": "text",
+      "id": "1DB972C8-1D8A-430D-93BE-03C2DAB6441C"
+    }
+  ],
+  "name": "Navigation Bars - Title + Cancel + Active Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C37C40CB-B04A-4967-8E63-40FC9A3C60BD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

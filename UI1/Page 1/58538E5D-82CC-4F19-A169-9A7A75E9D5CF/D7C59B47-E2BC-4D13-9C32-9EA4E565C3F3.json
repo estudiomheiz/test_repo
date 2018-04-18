@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D7C59B47-E2BC-4D13-9C32-9EA4E565C3F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FEFF983-2CD5-4D84-A03D-895EEE4B05DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C0B01B27-276B-4C5A-8923-24A042512598",
+    "height": 98,
+    "width": 359,
+    "x": 8,
+    "y": 291
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications/Overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79C6E16C-FF0C-42C6-AF26-D59B1A0FB348",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "67655F8E-6252-4E41-9BC5-C8E2C86E2F80",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "29D617F1-4C51-4BCE-A850-FADF42ADFC93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2AA46C4-C849-415A-8F14-6EB79030FB5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECE6F35B-965C-43F0-9DA6-8B48340DBC72",
+    "height": 48,
+    "width": 74,
+    "x": 148,
+    "y": 135
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FDD002B1-47A2-49CE-B503-C70A549B467E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E7E5476-A3F1-4544-945C-13F3A80428B0"
+    }
+  ],
+  "name": "Glyphs / Mail / Swipe / Unread",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "830115F0-0701-4AF1-8E9B-17133887A728",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

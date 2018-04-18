@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "0BA4D7F5-5405-4107-A428-98704968CCD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67990F07-C77B-47D6-A80F-13B02526D0BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABA0EB70-EE34-4051-9646-C1126AF304B1",
+    "height": 469,
+    "width": 375,
+    "x": 0,
+    "y": 529
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "490C48E3-B5C8-469A-88D1-CCDB9EC45281"
+    },
+    {
+      "class": "group",
+      "id": "D804B7A6-CA14-4535-8454-8362533620DE"
+    },
+    {
+      "class": "group",
+      "id": "11E758E4-C322-49A1-B4E1-63DB629FDE85"
+    },
+    {
+      "class": "group",
+      "id": "1395BE85-51E5-4404-802A-AD05061B502C"
+    },
+    {
+      "class": "group",
+      "id": "FC4B1279-A88F-46AA-B9A1-8E14D2CBC848"
+    },
+    {
+      "class": "group",
+      "id": "61097537-E5B9-4CAE-A134-D694D487652E"
+    }
+  ],
+  "name": "Share Sheet - Airdrop Connected",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A48E841-23B7-4900-A6E2-F45B9BAB9C2E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

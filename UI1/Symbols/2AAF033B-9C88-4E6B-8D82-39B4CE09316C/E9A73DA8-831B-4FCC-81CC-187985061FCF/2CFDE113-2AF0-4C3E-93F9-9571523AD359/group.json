@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "2CFDE113-2AF0-4C3E-93F9-9571523AD359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 359,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E575703-F7CF-4C92-886D-C86F68A64204"
+    },
+    {
+      "class": "group",
+      "id": "BA0F99D0-BB9B-4CB4-B540-0EE0BFFC5464"
+    },
+    {
+      "class": "group",
+      "id": "95C07E28-32BF-45A9-9881-DD3F6F2F5AC5"
+    }
+  ],
+  "name": "News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "BC82E781-DDF7-44CC-91DA-9FDFAE0D591D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0D7CC1E-1BD8-4A3E-A56B-A2E253E8D08E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEABA014-1046-4200-BA6E-F21A9886F462",
+    "height": 29,
+    "width": 29,
+    "x": 74,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EE0F553-3464-4374-A3E6-B4F318F857E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0485F0DA-04A6-4139-B60B-4C5D3C889241"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79600E59-BDF5-47E8-A198-77BD2979FB62"
+    }
+  ],
+  "name": "Glyphs / Settings / Battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60A4E158-EE8D-4676-A5C2-EBC4D3AAC083",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

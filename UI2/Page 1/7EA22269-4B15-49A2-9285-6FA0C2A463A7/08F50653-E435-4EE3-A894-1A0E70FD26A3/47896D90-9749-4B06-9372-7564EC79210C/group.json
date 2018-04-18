@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "47896D90-9749-4B06-9372-7564EC79210C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D7C0FA0-E60C-4DC1-A449-8E846624C2D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEE1B3B1-B359-49AA-9B7E-F95FB7FF6ACA",
+    "height": 29,
+    "width": 225,
+    "x": 457,
+    "y": 841
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B4A61EEF-BCEF-47F3-A449-6E9F328E40CB"
+    },
+    {
+      "class": "group",
+      "id": "AFC0464F-A03A-4A91-9BE7-A1B651B71EE0"
+    },
+    {
+      "class": "group",
+      "id": "CDE994B6-7C5E-4E9C-8987-F06E3B0D41D9"
+    },
+    {
+      "class": "group",
+      "id": "C7FE732C-9795-428E-AB50-B5949A088449"
+    },
+    {
+      "class": "group",
+      "id": "90F3BCD0-E29E-4CC6-BF94-AC56B1373991"
+    }
+  ],
+  "name": "Safari",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "571CD462-DE0D-4A80-8627-3B7A54BDA9F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

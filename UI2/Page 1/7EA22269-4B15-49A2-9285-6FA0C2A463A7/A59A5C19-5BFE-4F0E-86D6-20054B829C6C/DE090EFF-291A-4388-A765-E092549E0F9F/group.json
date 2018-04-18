@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DE090EFF-291A-4388-A765-E092549E0F9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2432E942-837D-489F-B176-03C8E486A800",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BCB3128-4167-4AE6-8906-8268E68CB9DF",
+    "height": 216,
+    "width": 320,
+    "x": 370,
+    "y": 1729
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5A7907B-A640-4E5D-B1C3-120981F1416E"
+    },
+    {
+      "class": "text",
+      "id": "7A85BEC8-650D-4421-B124-7748463BC4DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D01A41EB-05C3-4ADD-BE3C-3CA86F98EFB6"
+    }
+  ],
+  "name": "Keyboard Voice - 4\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F46E6E9E-2BDB-419B-B7D9-85114389ADDA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "78744BEA-17D1-443A-9E9C-C55ACCAD6F65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

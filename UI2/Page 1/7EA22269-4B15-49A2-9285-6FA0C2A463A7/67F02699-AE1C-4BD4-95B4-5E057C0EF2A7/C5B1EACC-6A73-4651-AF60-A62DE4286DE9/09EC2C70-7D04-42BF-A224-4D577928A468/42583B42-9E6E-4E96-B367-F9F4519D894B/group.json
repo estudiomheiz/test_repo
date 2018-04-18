@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "42583B42-9E6E-4E96-B367-F9F4519D894B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8B1E68B-4AFA-4E97-81CA-2255EA42055A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E94D05B6-F60D-438D-9862-4D5F8B7B857A",
+    "height": 79,
+    "width": 60.5,
+    "x": 174,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "1BB489F3-A018-418A-9872-83FB3FFC145C"
+    },
+    {
+      "class": "text",
+      "id": "E38B7C1C-2CD1-46CB-A338-56FB18E7AF72"
+    }
+  ],
+  "name": "Stocks",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "955315C9-2939-45A1-9ACC-BD7A1895443C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "E1A3AC1B-DB49-46B6-988B-D54EE19D2969",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

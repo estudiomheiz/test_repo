@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "5465584B-3EE6-4472-B1D5-9C4ADAD9A5E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A77FC540-3B00-4F42-9C57-856B8F588ED4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50780EEC-816C-457F-AA73-92ACFC88793F",
+    "height": 216,
+    "width": 375,
+    "x": 425,
+    "y": 1200
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "380DBCFE-7C8A-49B2-BDAC-76CC147CCF10"
+    },
+    {
+      "class": "group",
+      "id": "AED0CCAA-934F-4C47-977F-77A0BCA54D49"
+    },
+    {
+      "class": "group",
+      "id": "10C2C786-6CC2-4FBD-87F5-6826FB028301"
+    }
+  ],
+  "name": "Keyboard Phone Dark - 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C306E4CF-F63C-4F6D-ADD9-02F865E838CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

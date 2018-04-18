@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "AFC0464F-A03A-4A91-9BE7-A1B651B71EE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "585D525E-CA63-4F7B-840D-AD90EC6140C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9319B7D2-F0DC-4C45-8D55-13907AD84A24",
+    "height": 29,
+    "width": 29,
+    "x": 147,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B727149-0A24-4E18-BAFD-E9E1BC2A3312"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5C334BB-EF30-4D5F-AE4E-E41B3912D136"
+    }
+  ],
+  "name": "Glyphs / Safari / Bookmarks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "985FA591-3495-4B06-859B-F8AD8D8A6B6D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

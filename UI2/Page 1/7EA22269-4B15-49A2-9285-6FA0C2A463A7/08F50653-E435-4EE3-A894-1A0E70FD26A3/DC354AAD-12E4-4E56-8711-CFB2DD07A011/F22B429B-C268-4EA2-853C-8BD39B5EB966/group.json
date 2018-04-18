@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "F22B429B-C268-4EA2-853C-8BD39B5EB966",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20BF0965-AE55-4EC8-A2B6-8258EA959F7F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43890CA4-841A-4837-9FF6-A068946B4EA6",
+    "height": 25,
+    "width": 25,
+    "x": 135,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E954ADA-F9C5-4E05-9E99-E4A6158C1C00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D257CC9-48FD-411F-9C1A-92AA735037DD"
+    }
+  ],
+  "name": "Glyphs / Mail / Reply",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B92B666-775B-4E73-B8FD-4F7894433F17",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

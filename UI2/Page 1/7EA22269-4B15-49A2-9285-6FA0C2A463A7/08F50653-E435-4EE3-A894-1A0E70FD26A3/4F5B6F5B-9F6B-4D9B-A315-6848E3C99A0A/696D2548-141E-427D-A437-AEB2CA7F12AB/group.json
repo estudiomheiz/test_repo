@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "696D2548-141E-427D-A437-AEB2CA7F12AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE1A4537-B476-4956-94A9-24D7C8A73F90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C9A6BA6-0EF4-40D3-B4E4-AF506DE3CD60",
+    "height": 28,
+    "width": 28,
+    "x": 144,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A920A24-9AAD-46A6-9A51-0573AEBD7CAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2D5E835-AD4C-423B-AA18-99DAF67B87CD"
+    }
+  ],
+  "name": "Glyphs / Quick Actions / Instagram / Direct",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B52D992-8544-4510-8AE3-A81F0C281988",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

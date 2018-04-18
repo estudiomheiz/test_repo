@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "4429F1AB-C902-4896-BEBB-8481058CCCFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC02F549-4B28-4730-ADF2-D400A74D36E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD6BAC66-E50C-49C0-9B03-323AC2EC21D4",
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED51A43F-FC7F-4B10-870A-B62A72C2B8F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C7763F4-F51E-4FE3-8DAC-AFF8E09C27CE"
+    }
+  ],
+  "name": "Glyphs / Share Sheet / Reading List",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8579A673-01F8-4AB5-B4AB-AB4CF78B12FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

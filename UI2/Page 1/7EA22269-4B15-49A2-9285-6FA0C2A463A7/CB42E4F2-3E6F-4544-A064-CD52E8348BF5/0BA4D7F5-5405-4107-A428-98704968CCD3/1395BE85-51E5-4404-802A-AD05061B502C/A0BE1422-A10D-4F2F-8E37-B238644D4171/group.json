@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A0BE1422-A10D-4F2F-8E37-B238644D4171",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49F4DF51-2DC8-45AE-81EF-AE2718D82107",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87673EB6-CE75-4C6E-86DB-1B89F6B4AACB",
+    "height": 93,
+    "width": 72,
+    "x": 252,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB07633B-00C1-4EC3-9EE5-83BE9DACF45F"
+    },
+    {
+      "class": "group",
+      "id": "4B89A9C9-5506-4D9D-B665-E7F3DE49CF9C"
+    },
+    {
+      "class": "text",
+      "id": "82E17CBF-6225-415E-9085-9F17347BCD7C"
+    }
+  ],
+  "name": "Homescreen",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F58B2322-67EE-437B-A9E3-EAE563B66FFB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

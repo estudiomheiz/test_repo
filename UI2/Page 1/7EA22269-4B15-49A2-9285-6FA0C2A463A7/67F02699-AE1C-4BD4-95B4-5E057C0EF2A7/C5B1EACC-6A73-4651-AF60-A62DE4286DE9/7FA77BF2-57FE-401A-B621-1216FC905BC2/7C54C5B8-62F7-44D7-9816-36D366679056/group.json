@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7C54C5B8-62F7-44D7-9816-36D366679056",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8EF505C-0268-4189-A894-394E708C682F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD63A566-6D15-45AA-824F-47F4A6B60A3C",
+    "height": 79,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EF0E49EB-DACE-4518-A33E-2E3F2E078820"
+    },
+    {
+      "class": "text",
+      "id": "A65EC2F3-9B36-4E44-A49B-9897AC62BF20"
+    }
+  ],
+  "name": "iMessage",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B49CFB03-B4FD-49FB-9322-F5606309BA6F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "4810F572-CF9C-43C1-BCDB-54B3BACB3711",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

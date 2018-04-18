@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9697848A-08DD-4B98-911B-34D059CE62E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D43926FF-DADC-437D-B412-55A9487E3BEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AE53CE0-E2F9-4080-BEAA-FD8D910C5DF3",
+    "height": 23,
+    "width": 17,
+    "x": 4,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "19AE55EB-F128-40D5-9D81-D7E30534D376"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9D7A5D9-02BB-484C-BEE5-94740E6E40D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "7536A88A-32E5-42B0-ACEB-297125AA076F"
+    }
+  ],
+  "name": "Drafts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EB1E251-1BB5-451E-8C2C-7F36EA88A9CF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.4941176470588236,
+          "red": 0.08235294117647059
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

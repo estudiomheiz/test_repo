@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "96D26786-C263-436B-8999-1E2ED8A37EE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7F97BE9-4F8A-4243-8EB8-80C050460A39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62A9CA92-9DAD-47A6-85DC-F0F7DBEC8B87",
+    "height": 20,
+    "width": 29,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D517426B-B443-4ECD-AD25-E3966F194257"
+    },
+    {
+      "class": "shapePath",
+      "id": "71226ECE-5DCD-473B-9B1D-88D6BB7C3D59"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8646FF6-AFB6-4100-9AE5-EEF6D6FF803A"
+    }
+  ],
+  "name": "TV Shows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EDEB92C-B258-4FEF-BF94-E3C5C9716550",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5686274509803921,
+          "green": 0.5725490196078431,
+          "red": 0.5686274509803921
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

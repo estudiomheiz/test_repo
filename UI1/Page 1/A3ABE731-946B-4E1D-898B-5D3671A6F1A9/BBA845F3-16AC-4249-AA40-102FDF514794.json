@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BBA845F3-16AC-4249-AA40-102FDF514794",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A38902C-FA3F-47A2-A24E-7B049CFB73A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "340CF535-EB96-47BA-8EEB-A603094E0AA6",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Siri Suggestions",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F208D6D7-12ED-4B5C-B9E8-99BCF09C7E63",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2BBFE80C-CD6D-428D-B5B0-AD08DB604E93",
+  "verticalSpacing": 0
+}

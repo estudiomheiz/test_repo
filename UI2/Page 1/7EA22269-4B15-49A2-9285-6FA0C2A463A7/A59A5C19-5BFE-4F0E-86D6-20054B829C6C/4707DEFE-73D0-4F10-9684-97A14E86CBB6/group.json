@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "4707DEFE-73D0-4F10-9684-97A14E86CBB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E038B5AA-F4FE-4D33-A2E8-138C251B84A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C438DD4-21F9-4953-9DFC-FCB8C54F6E29",
+    "height": 223,
+    "width": 320,
+    "x": 370,
+    "y": 240
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "05662402-3C46-4E45-968B-DDEE6BDEAAB6"
+    },
+    {
+      "class": "group",
+      "id": "999659CC-2CA2-4C80-868A-5F3BE58D916B"
+    },
+    {
+      "class": "group",
+      "id": "ABC54248-4C3C-4C10-9890-42AEEFE68869"
+    },
+    {
+      "class": "group",
+      "id": "7927E5E7-1FB3-421A-BDAD-731484D0DA9B"
+    }
+  ],
+  "name": "Keyboard abc Done Dark - 4\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "55BAB9A2-06B6-42B5-8248-9115241A5739",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "B1103894-F9C6-4CE8-99C8-4F06B65470B1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

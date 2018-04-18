@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A47294A5-99CF-4E06-884B-01CD037E30EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28625363-FC9A-43A3-9A75-52F7F2DA0D7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FBF25226-5378-492A-89ED-A3DA307652DD",
+    "height": 94,
+    "width": 72,
+    "x": 95,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9103A986-11E3-4B05-BF51-D96D8C705380"
+    },
+    {
+      "class": "text",
+      "id": "2AB4A6D8-22F9-4F24-A49A-AA9FB7F15DDF"
+    }
+  ],
+  "name": "Jeff'S iPhone",
+  "nameIsFixed": true,
+  "resizingConstraint": 33,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "689D1E12-6F07-4B13-818F-E00D495F2664",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

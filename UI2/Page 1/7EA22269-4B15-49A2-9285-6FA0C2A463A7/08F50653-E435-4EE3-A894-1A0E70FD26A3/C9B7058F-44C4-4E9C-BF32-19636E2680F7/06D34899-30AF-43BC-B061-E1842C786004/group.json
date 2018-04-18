@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "06D34899-30AF-43BC-B061-E1842C786004",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA8AEBBB-189E-47FE-A5B8-DC91C55AFBEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E67217EE-E843-4AB0-9F5D-959580CEAEF2",
+    "height": 29,
+    "width": 29,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1FBF4C2B-6FE0-4ADE-99BF-E8B137498510"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39C8DFAB-F60E-4413-93F2-4962AD00AC1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEFBD515-D04E-4F06-8ACC-772079222B50"
+    }
+  ],
+  "name": "Glyphs / Settings / Wallpaper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9040B1D3-B7BB-4174-9F8C-997F80289F01",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

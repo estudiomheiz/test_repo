@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "E2C4908F-B7BB-434E-900C-4D566C311612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBE8B549-23DA-48EF-A496-FA151FB2E75C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9774995C-39FC-4A63-A743-608AC24CCC02",
+    "height": 202,
+    "width": 32,
+    "x": 168,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DCF8CB33-8FE9-4DE5-BC95-CD86DA2223C8"
+    },
+    {
+      "class": "text",
+      "id": "4934CEE9-4951-4F4A-9D73-55C02CE07466"
+    },
+    {
+      "class": "text",
+      "id": "4B2E4275-32E8-4D70-ADED-4730EA310943"
+    },
+    {
+      "class": "text",
+      "id": "3C0D9C52-4F7B-45AA-9E6D-F45657A5F176"
+    },
+    {
+      "class": "text",
+      "id": "B5B81DD2-7D05-4D6A-9F8D-7F544F93AB22"
+    }
+  ],
+  "name": "Emoji column 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6201DEBE-C01A-4084-B4C4-CAD479D7C892",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "D88BE81C-7926-40BE-B68E-36E56D1A5768",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

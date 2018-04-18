@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "do_objectID": "9D1CA6A8-214B-402B-8FC5-750770F6F7DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0F006A2-39B3-496B-84B1-D5E669AFE3FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC31A1F7-1688-44A5-93F1-B20161B62E16",
+    "height": 1020,
+    "width": 850,
+    "x": 1900,
+    "y": 2663
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "20ACB6D2-B656-4CF5-9BCD-2679859F0161"
+    },
+    {
+      "class": "text",
+      "id": "73FD3A16-6011-45DD-B836-6DE405972314"
+    },
+    {
+      "class": "text",
+      "id": "6C05C688-B048-4263-8084-3840CBFE6F46"
+    },
+    {
+      "class": "text",
+      "id": "DEC7A469-E643-40FE-A5E9-F47A7FEFE46D"
+    },
+    {
+      "class": "text",
+      "id": "E19B7CA4-F0AF-472D-B6E0-F6DD52994160"
+    },
+    {
+      "class": "text",
+      "id": "66C94B61-F318-43BF-AD75-6CB04A22A514"
+    },
+    {
+      "class": "text",
+      "id": "6B3AD73B-734F-4AF4-B522-45C199ED0F62"
+    },
+    {
+      "class": "text",
+      "id": "F97EE5FD-85CA-46E0-95E0-F319E5F1532A"
+    },
+    {
+      "class": "text",
+      "id": "89456CFA-A6F7-47DB-8945-3A4234D6D6F6"
+    },
+    {
+      "class": "text",
+      "id": "CE74FDCE-1862-4542-9830-B5292EA138AF"
+    },
+    {
+      "class": "text",
+      "id": "436129EB-7E2F-44F9-B266-947E5BC83002"
+    },
+    {
+      "class": "text",
+      "id": "26AD6E69-88B7-4917-B067-076362BC523F"
+    },
+    {
+      "class": "text",
+      "id": "615BEBEF-C4AF-477A-8231-96D7E68BB717"
+    },
+    {
+      "class": "text",
+      "id": "44F06D50-3C0E-4212-B3C4-CC98AAAA48B4"
+    },
+    {
+      "class": "text",
+      "id": "68DFF980-554C-423D-812B-FF0E609BEF4D"
+    },
+    {
+      "class": "text",
+      "id": "E20BDE56-9666-4A4B-9A72-68B3C0866176"
+    }
+  ],
+  "name": "Glyphs Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EED69A0D-CA79-4091-8363-46DE1203A96B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "0B41D362-A997-4C22-8258-40B35640E2C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC047893-EE69-4C20-AB5E-9E676A238027",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6776BA15-D727-4CE8-985C-A62E4A2EC0D0",
+    "height": 281,
+    "width": 375,
+    "x": 675,
+    "y": 3338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C62D68C3-7214-45EF-A7F5-C9287FC82858"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F3570CB-0683-43E1-A93F-915EF3C27C58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FF3F757-D6D4-4C53-89AC-1599C66974DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7CA4BA3-D896-400C-8AC9-C928243D139C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F88405D0-BCBF-4C70-BCD8-0B8C0B5C63E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E06FD94-349C-4B99-8B51-476AC9B0CE54"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B3DB54A-2271-4E3C-BE03-1F08E11CDB73"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "085C37EA-F469-47BC-BA17-78001321C709"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23DC78DB-34BE-4185-BEF4-1808CD63F30D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CC7E437-9663-46A9-9C7E-02BB6E20B52F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD4E8D05-292A-4C66-AC73-F7CF376BC68D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "283295E2-3AC2-4FAF-805E-A3DDAFE95573"
+    }
+  ],
+  "name": "Collection View",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8323ED4E-6518-4D96-8476-76BFB245B07F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

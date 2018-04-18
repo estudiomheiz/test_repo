@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "2A7D175E-E15E-4392-BDFF-46DD8757BF03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB51AB2-948F-4F96-AD75-83F067243C61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C93E83C9-9BB1-4516-B036-637A40759237",
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D53DB5C8-26BA-46A0-A256-BA44E28A228A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22BC6386-76A9-4AE6-AB19-F27AAC4D94E2"
+    }
+  ],
+  "name": "Glyphs / Mail / Flag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBC8B91D-E382-4175-8E9C-0681EEDDBC68",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

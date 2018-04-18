@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "C9D08CEE-A352-4BD3-A992-1789E363CA65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE3B110A-7D82-42D2-9722-9F9A16EA4EF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5874E1F2-5F20-4F2D-A8A8-E425BF2AE0DE",
+    "height": 73,
+    "width": 351,
+    "x": 12,
+    "y": 128.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C164EC4-8477-4F62-9F28-FA4A29FB9576"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A19E2FE-1CC3-498B-8136-804D7B6D039C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1663791B-832E-4658-841B-8830D65339BB"
+    }
+  ],
+  "name": "Icons",
+  "nameIsFixed": true,
+  "originalObjectID": "DAF8346C-7CBB-467E-87E9-F570A067880B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4A48AD08-F1E5-44AD-9E79-4EAAC827E5F5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "BA1B93EC-BB7F-4151-B66D-3008B9BAA453",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "87E44595-746A-4315-A854-EBAA01233927",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 419,
+    "width": 359,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31A77A38-33EA-4419-9D1A-3E2E449D19C3"
+    },
+    {
+      "class": "group",
+      "id": "D64EE340-5DB1-4EB4-9C36-B124190041AC"
+    },
+    {
+      "class": "group",
+      "id": "D559B2E9-5A4C-4D1B-A757-9618CB46000C"
+    },
+    {
+      "class": "group",
+      "id": "3DC448CB-A6EE-4D7D-8BE5-17A83C7B7704"
+    },
+    {
+      "class": "group",
+      "id": "6DA1D351-9259-418E-98A7-846A7F62ACE0"
+    },
+    {
+      "class": "group",
+      "id": "B3098977-3D03-4307-9DF3-BB506E9D47D4"
+    },
+    {
+      "class": "group",
+      "id": "40443429-ABAC-4224-A6D9-D30374FF642F"
+    }
+  ],
+  "name": "Control Centre/Music",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "AB384D2C-6865-4447-AB13-4E58299710E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E512FF0B-2503-49DC-8641-5F818E6A33A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84DF22E7-6250-4185-A1E5-E5A5D9BA9DEF",
+    "height": 2240,
+    "width": 2750,
+    "x": 0,
+    "y": 4103
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2601F700-5A73-4CB3-951D-98E3DA18FE96"
+    },
+    {
+      "class": "text",
+      "id": "0C70FC89-D20F-4514-B7FF-D4E42C926868"
+    },
+    {
+      "class": "text",
+      "id": "234E0A30-ADEC-47D9-BDBF-83A340C62925"
+    },
+    {
+      "class": "text",
+      "id": "B8000B40-BC3F-4775-94D2-A77ACE4996E3"
+    }
+  ],
+  "name": "Keyboard Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B629D23B-C023-47E9-9156-1886550C4D78",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

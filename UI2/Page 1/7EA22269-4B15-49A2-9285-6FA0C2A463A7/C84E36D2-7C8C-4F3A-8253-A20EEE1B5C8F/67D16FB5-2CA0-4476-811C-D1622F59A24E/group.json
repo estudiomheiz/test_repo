@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "67D16FB5-2CA0-4476-811C-D1622F59A24E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92257070-8B5D-447D-A3EB-B7128E373492",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57D7D7DF-BD35-4B35-880A-13FB2B1BFC12",
+    "height": 116,
+    "width": 375,
+    "x": 0,
+    "y": 852
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C97CE690-EBDA-4E5A-B8AA-D26D82378B65"
+    },
+    {
+      "class": "group",
+      "id": "737685B3-48A2-48D1-84B5-2590B0389E1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "275D1119-4DB7-4E13-9390-44F26DA45E86"
+    },
+    {
+      "class": "text",
+      "id": "B914DBE0-35E1-4488-AA39-1DFE0235C214"
+    }
+  ],
+  "name": "Sticky Grouped Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B18168E1-145E-4B68-9E20-6EB11F57A17B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

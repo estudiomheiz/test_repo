@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "F8F0F095-7242-4359-B3E5-C0D14FDE3B83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56325354-92B3-4A62-BA78-A5922A62E091",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B4C922E-ACB9-48A7-A77A-3FB2924B26F3",
+    "height": 216,
+    "width": 375,
+    "x": 425,
+    "y": 480
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4A0D2C8-48A1-4550-8BF4-74A5BDC6CBF4"
+    },
+    {
+      "class": "group",
+      "id": "C0FE0DA0-2DD7-4EF4-BE87-B66D701E2292"
+    },
+    {
+      "class": "group",
+      "id": "9C802F86-5A9B-4398-A9CC-F9FC3153E2FC"
+    },
+    {
+      "class": "group",
+      "id": "712BCDB3-D716-4753-A963-B3D6AD6FD3CD"
+    }
+  ],
+  "name": "Keyboard abc Browser Dark - 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3A30EE58-B3C6-4F29-9060-00797CE85AD2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "94D00712-2FE6-4770-9B93-59DAACB5DF7D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

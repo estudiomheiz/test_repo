@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7D8C45F4-18B7-4586-A691-DA1C99B2C395",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "800AB313-7A94-49BF-A160-0786DD8E467E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCBEF0D9-5899-4A71-9DEA-7B4390964F01",
+    "height": 967,
+    "width": 495,
+    "x": 2485,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D67DCDEC-E86D-4450-B207-5518258C7F12"
+    },
+    {
+      "class": "bitmap",
+      "id": "3FB04E7C-10B5-4A11-ADDD-C3F4EC5635FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07018576-130A-4740-97B8-A050867FA228"
+    }
+  ],
+  "name": "Apple iPhone 7 Matte Black",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A973140C-15FC-4187-9159-3692762533F3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

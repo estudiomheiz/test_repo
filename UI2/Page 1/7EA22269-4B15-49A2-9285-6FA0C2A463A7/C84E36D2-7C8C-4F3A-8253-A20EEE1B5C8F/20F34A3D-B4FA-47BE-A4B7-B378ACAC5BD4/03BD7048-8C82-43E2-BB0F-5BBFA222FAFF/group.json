@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "03BD7048-8C82-43E2-BB0F-5BBFA222FAFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C85DA2FE-6C24-4364-AE38-7D59F0A8592E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "775F1757-4925-4926-87D9-4D27F89FBD4E",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BE04C4E9-D47E-4061-AC05-917E5D934E00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DCBEFCE-3101-4641-B499-7A2C2F760D5B"
+    },
+    {
+      "class": "text",
+      "id": "83391B7D-BB17-4E0E-A0CA-E25F1B6066F9"
+    }
+  ],
+  "name": "Table Cell",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "922EF368-4A6A-4811-931C-04A85627EE30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

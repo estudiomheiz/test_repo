@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "3A8C882D-CCCE-44F7-97DE-2BAED9566A92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9712C616-2F52-427B-9591-D221BD7B4498",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B253F5D6-98C0-4D57-8008-CF71886B1515",
+    "height": 15,
+    "width": 375,
+    "x": 0,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3E319E1E-CEBD-4361-BD58-DF79E29E5B30"
+    },
+    {
+      "class": "group",
+      "id": "D2627E2B-1205-4A19-B20C-3442CFC78541"
+    }
+  ],
+  "name": "Page Control Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CF55D8E-43AA-4862-A7D1-EB2625706F5B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "578EFE32-FA92-4BEA-8C89-772E40C6BA3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "332F0207-9574-46CB-9944-9D5FF6D9FC6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D05F65E3-B36F-470B-994D-81EC37CA7E1C",
+    "height": 25,
+    "width": 25,
+    "x": 181,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ECAD1AEA-DBD3-47C6-9238-E1C4D69C0CB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61DFD2D9-C8D7-4C03-8BEB-CF9654499F48"
+    }
+  ],
+  "name": "Glyphs / Mail / Compose",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB479F02-293A-4416-8133-88048274D3E7",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

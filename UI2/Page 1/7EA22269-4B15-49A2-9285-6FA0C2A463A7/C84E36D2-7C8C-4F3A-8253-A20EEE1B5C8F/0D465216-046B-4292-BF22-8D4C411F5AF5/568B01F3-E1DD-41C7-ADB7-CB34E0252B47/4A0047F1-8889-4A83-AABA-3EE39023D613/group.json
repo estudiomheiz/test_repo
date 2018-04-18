@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "4A0047F1-8889-4A83-AABA-3EE39023D613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BE7845B-0467-48A8-B760-EF33DEB4035A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "627E08CC-BDB5-499F-BD7F-82BE59747B5B",
+    "height": 14,
+    "width": 14,
+    "x": 347,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C7A367BB-4AC5-46F9-9B93-FE5D06549597"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BBF496C-C6F6-4E8C-8574-6A6F51769107"
+    }
+  ],
+  "name": "Glyphs / Table Cell / Chevron",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "456F07A4-176F-4678-B155-74EB5DEDC454",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

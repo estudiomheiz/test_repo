@@ -1,0 +1,74 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "ACA9881B-C5CB-407F-8779-199E57786BB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3BE5315-9478-40B5-A38C-131F56439935",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D28FAD4-A47A-496A-A49C-308E7C7BDE7D",
+    "height": 26,
+    "width": 32.01904007905966,
+    "x": 647,
+    "y": 749
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6CF8F9A4-EFEF-412C-AB29-8FFD06261D36"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9F86F4B-F7B2-4D21-A69C-92A0358E2E7B"
+    }
+  ],
+  "name": "Fill 116 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B32C7CB-8FE5-4BD1-9689-36FFE247EA53",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6431372549019607,
+          "green": 0.5764705882352941,
+          "red": 0.5372549019607843
+        },
+        "do_objectID": "4862BC92-3116-4474-85A5-061B48D9E253",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

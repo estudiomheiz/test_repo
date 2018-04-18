@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "FE8209B8-4D8F-4420-B139-429FAEC311B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E14E88D9-6DA4-475B-B9CF-6D037FFEBD16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C84B33A-A14E-4A14-8779-0003AED9814A",
+    "height": 14,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DBC23F79-936E-4269-990D-5203C0F40D1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC6D23E5-B5D9-4C3A-A16D-BCBB61D0EE62"
+    }
+  ],
+  "name": "Glyphs / Search Bar / Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EADD652-BCE4-414C-9074-46AD4792E209",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "CD0D037B-FC8B-4B6C-8815-886498B71A2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01CF3E14-6FF3-447B-8813-A616971618B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A53ACD11-FFDE-4AB8-8D37-BA7477934927",
+    "height": 29,
+    "width": 225,
+    "x": 457,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "58C0ECD2-C288-43F9-9199-5D5BD9C8C0A3"
+    },
+    {
+      "class": "group",
+      "id": "F14ED299-D5B0-43D8-BBA4-739681B5F428"
+    },
+    {
+      "class": "group",
+      "id": "77FCB2AC-803A-4DBF-8AA5-77DC1E5A2C0E"
+    },
+    {
+      "class": "group",
+      "id": "006D9611-34D0-4391-A833-043A7B528743"
+    },
+    {
+      "class": "group",
+      "id": "91D7E120-8D2B-4B55-AC4F-91891F570ACB"
+    }
+  ],
+  "name": "App Store",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBB54429-B738-4A6A-A53E-CB23150A3847",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

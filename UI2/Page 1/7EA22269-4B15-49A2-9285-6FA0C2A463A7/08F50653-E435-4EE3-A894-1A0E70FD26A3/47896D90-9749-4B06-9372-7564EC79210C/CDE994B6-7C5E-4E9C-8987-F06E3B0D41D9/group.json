@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "CDE994B6-7C5E-4E9C-8987-F06E3B0D41D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A7FCF5A-B38F-4ACE-AE9A-74F5365EC990",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77CFDC5A-6319-41BA-B223-429BAABC91DA",
+    "height": 29,
+    "width": 29,
+    "x": 98,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "628CB695-EF54-40FF-840D-E6D1FC3B153E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E248EF5-EC35-4CDC-B7DE-36404D450206"
+    }
+  ],
+  "name": "Glyphs / Safari / Share",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F49A67C4-2014-4C7B-890F-B64B368E7FFF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "DF4A5208-F6D2-4472-A6CD-21FF579B1D70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F345C3AF-F7AC-4D9C-8FC0-C30F98BA913A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0C85DAC-2AD4-4293-B6A3-1F767BAEE268",
+    "height": 60,
+    "width": 60,
+    "x": 6,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CEB5D1D-86A2-492B-B082-36CF27ABA538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4598AF4B-C3D5-48EA-B84A-A71EAD1F75F4"
+    }
+  ],
+  "name": "Glyphs / Share Sheet / Bookmarks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D3CB012-77AC-43A9-A80F-77A9E7AAABB7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

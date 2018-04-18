@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "41B39025-60FC-4EF8-92DD-C2AFB4222F0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AAC98E8-E473-4E7E-B8F3-7A64CBE38C07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D62B249A-FE9D-4DDA-80BA-6039F94E2D11",
+    "height": 62,
+    "width": 359,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C1FA490-DEEB-4BE0-9E22-60736B2C4E62"
+    },
+    {
+      "class": "text",
+      "id": "D93F6ECB-9ED5-461E-ADA2-A9DC549B9159"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10F96BAB-9764-423C-B1B5-14A441E67C1C"
+    }
+  ],
+  "name": "3D Touch News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B40BDDB-B305-4C01-A8E2-0EA9D4AC5751",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "8FE238D9-AE1F-4C21-B068-FAF905026789",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A45113A5-867B-4BD8-8107-82874E9CEBCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56412B08-2169-456F-B588-CC38E44E8792",
+    "height": 93,
+    "width": 72,
+    "x": 168,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E04346C-7AFE-4C53-BFB3-69C792EDE3BF"
+    },
+    {
+      "class": "group",
+      "id": "CA67B781-B723-4C52-AE1D-75566703049A"
+    },
+    {
+      "class": "text",
+      "id": "B9B5EB7E-110B-4EEB-95F5-92FFFCC8DC7E"
+    }
+  ],
+  "name": "Reading List",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F19A15DE-6724-4786-A32A-0E06EFC2F9C8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

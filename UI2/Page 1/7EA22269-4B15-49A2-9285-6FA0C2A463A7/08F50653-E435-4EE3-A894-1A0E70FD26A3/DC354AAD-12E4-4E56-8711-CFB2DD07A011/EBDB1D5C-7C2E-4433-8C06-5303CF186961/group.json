@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "EBDB1D5C-7C2E-4433-8C06-5303CF186961",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A63C5E3-19E9-4573-8A84-B7AAFF8F4BD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56571B3D-22E1-4CB8-9FFA-A1275755F073",
+    "height": 25,
+    "width": 25,
+    "x": 225,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "477CBD7D-91C6-419C-95ED-939C2624C704"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AF9B111-4C5B-43C8-99BE-617D21F0BB71"
+    }
+  ],
+  "name": "Glyphs / Mail / Alert",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBB0703E-2CFC-425F-8960-4429BF678F0E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

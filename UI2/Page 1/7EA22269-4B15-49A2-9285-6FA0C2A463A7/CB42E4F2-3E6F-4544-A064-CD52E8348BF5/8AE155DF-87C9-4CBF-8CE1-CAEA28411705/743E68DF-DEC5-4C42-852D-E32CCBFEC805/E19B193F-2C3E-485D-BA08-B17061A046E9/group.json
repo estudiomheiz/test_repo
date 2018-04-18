@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "E19B193F-2C3E-485D-BA08-B17061A046E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EA7594C-7B70-41A3-9F5A-6CF324FD6CFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9A72953-52DC-4ECB-9804-607C5B225437",
+    "height": 80,
+    "width": 12,
+    "x": 338,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CAA09314-0292-4A8B-85A6-E84C29A0BC18"
+    }
+  ],
+  "name": "Instagram",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96489F5D-BB12-4530-BA98-F97F3BBA23D3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8560317F-1910-44E8-94A5-0BAF9861DF7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94444D05-F5EA-46E3-8DBF-3CD17F6018C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8F86B196-1BBE-4242-81F3-53D738094063",
+    "height": 419,
+    "width": 359,
+    "x": 8,
+    "y": 435
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Control Centre/Music",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CE07FC7-491B-4759-B764-60F6937558B5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6C6F3564-9F2B-4DD6-B6BF-CF740DC1D832",
+  "verticalSpacing": 0
+}
